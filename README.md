@@ -69,6 +69,6 @@ No
 
 # Public Display/dissemination
 
-The project is deployed at [Optimum](optimum-production.up.railway.app)
+The project is deployed at [Optimum]([optimum-production.up.railway.app](https://optimum-production.up.railway.app/optimizer_simulator/))
 
 # License
