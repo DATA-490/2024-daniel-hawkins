@@ -1,4 +1,4 @@
-Django==5.0.2
+Django==5.0.10
 nfl_data_py
 thefuzz
 python-Levenshtein
